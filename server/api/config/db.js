@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const dbURI = 'mongodb+srv://sample:sample@stockbud-db.bjlv0.mongodb.net/userdata?retryWrites=true&w=majority';
+const dbURI = 'dbURI-REMOVED';
 const options = {
   reconnectTries: Number.MAX_VALUE,
   poolSize: 10
